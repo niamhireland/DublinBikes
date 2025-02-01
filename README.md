@@ -2,7 +2,6 @@
 
 <img width="992" alt="Screenshot 2025-01-11 at 13 58 05" src="https://github.com/user-attachments/assets/68bbe5c3-c20e-46d8-9007-51322d1006a7" />
 
-
 ## About The Project
 
 This project was developed as part of the UCD Master's in Computer Science. It focuses on displaying useful real-time and predicted data about the bike stations of Dublin Bikes, a bike rental service operating in Dublin.
@@ -26,15 +25,13 @@ This project was built using the following technologies:
 * [![Gunicorn][Gunicorn]][Gunicorn-url]
 * [![Nginx][Nginx]][Nginx-url]
 
+As this was a university project, it was mandatory for us to use EC2, JavaScript, HTML and CSS. Other languages and frameworks (Bootstrap etc) were not allowed. 
 
+### Acknowledgements
 
+I would like to thank the teaching team of COMP30830: Software Engineering for their support and guidance. Dr. Aonghus Lawlor's guidance was invaluable in deploying this project. The team of demonstrators provided clear guidance and support also. 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Installation
-
+I would also like to acknowledge my team members Calvin van der Riet and Danielle Zhang, whose collaboration and dedication were essential in bringing this project to life. 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -47,4 +44,9 @@ This project was built using the following technologies:
 [Flask-url]: https://flask.palletsprojects.com/
 [MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
-[EC2]: https://img.shields.io/badge/Amazon%20
+[EC2]: https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[EC2-url]: https://aws.amazon.com/ec2/
+[Gunicorn]: https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white
+[Gunicorn-url]: https://gunicorn.org/
+[Nginx]: https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
+[Nginx-url]: https://nginx.org/
