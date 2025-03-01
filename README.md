@@ -25,7 +25,7 @@ This project was built using the following technologies:
 * [![Gunicorn][Gunicorn]][Gunicorn-url]
 * [![Nginx][Nginx]][Nginx-url]
 
-As this was a university project, it was mandatory for us to use EC2, JavaScript, HTML and CSS. Other languages and frameworks (Bootstrap etc) were not allowed. 
+The services were deployed and managed using AWS EC2 and RDS. JCDecaux was used to scrape bike data and train machine learning models. Google maps API was used to display map and bike routes.
 
 ### Acknowledgements
 
